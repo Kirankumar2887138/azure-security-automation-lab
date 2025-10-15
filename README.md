@@ -16,14 +16,14 @@ This mirrors how enterprises automate **policy validation**, **access checks**, 
 
 ---
 
-##⚙️ Tools & Libraries
+## 🧩 Screenshots
 
-- **Azure CLI**
-- **Python 3.10+**
-- **Azure SDK for Python**
-  - `azure-identity`
-  - `azure-mgmt-resource`
+**Azure CLI Login**
+![Azure CLI Login](images/01_az_login_redacted.png)
 
-Install dependencies:
-```bash
-pip install -r requirements.txt
+**Resource Group Create & List**
+![Resource Group](images/02_rg_create_list.png)
+
+**Python SDK Automation Output**
+![Python SDK](images/03_python_sdk_list_rg.png)
+
