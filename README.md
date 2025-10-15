@@ -15,15 +15,16 @@ Using Azure CLI and Python, I:
 This mirrors how enterprises automate **policy validation**, **access checks**, and **resource inventory** under NIST 800-53 / 171 controls.
 
 ---
-
 ## 🧩 Screenshots
 
 **Azure CLI Login**
-![Azure CLI Login](images/01_az_login_redacted.png)
+![Azure CLI Login](images/01_az_login_redacted.png.png)
 
 **Resource Group Create & List**
-![Resource Group](images/02_rg_create_list.png)
+![Resource Group](images/02_rg_create_list.png.png)
 
 **Python SDK Automation Output**
-![Python SDK](images/03_python_sdk_list_rg.png)
+![Python SDK](images/03_python_sdk_list_rg.png.png)
+
+
 
